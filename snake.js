@@ -6,7 +6,7 @@ const box = 32;
 
 // load
 const ground = new Image();
-ground.src = "img/ground.png"
+ground.src = "img/ground.png";
 
 const foodImg = new Image();
-foodImg.src = "img/foodImg.png"
+foodImg.src = "img/foodImg.png";
